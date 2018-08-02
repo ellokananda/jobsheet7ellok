@@ -5,17 +5,19 @@
  */
 package jobsheet7;
 
+import java.util.Scanner;
+
 /**
  *
  * @author User
  */
-public class Jobsheet7 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Percabangan {
+    public static void main (String[] args){
+        String identitas = "ellok ananda madya pratiwi / x rpl 5 / 13";
+        System.out.println("Identitas : "+ identitas);
+        
+        
     }
+    
     
 }

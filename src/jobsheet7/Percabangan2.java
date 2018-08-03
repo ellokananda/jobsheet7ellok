@@ -16,9 +16,20 @@ public class Percabangan2 {
     public static void main (String[] args) {
     String identitas = "ellok ananda madya pratiwi / x rpl 5 / 13";
     System.out.println("Identitas : "+ identitas);
+    Scanner scanner = new Scanner (System.in);
+    
+    System.out.println("Bahan Pertama: ");
+    System.out.println("1.Pisang");
+    System.out.println("2.Telur");
+    System.out.println("Masukkan no pilihan Anda");
+    int bahan1 = scanner.nextInt();
+    
+    
+    
     
     
    
     
     
+}
 }
